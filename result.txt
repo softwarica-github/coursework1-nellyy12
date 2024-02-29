@@ -1,0 +1,560 @@
+
+==================== Results 2024-02-26 19:47:00 ====================
+
+Open ports: 80
+
+Services:
+  Port  Service Info
+    80  Unable to retrieve service information
+
+Banner for www.amazon.co.uk:80:
+Unable to grab the banner
+
+WHOIS information for www.amazon.co.uk:
+('144.245.41.124.dynamic.wlink.com.np', [], ['124.41.245.144'])
+
+IP address for www.amazon.co.uk:
+124.41.245.144
+
+Service Availability:
+Service    Availability
+http       Available
+ftp        Available
+ssh        Available
+
+Target IP Reachability: Reachable
+
+IP Location Information:
+Attribute    Value
+Status       success
+Country      United States
+Countrycode  US
+Region       WA
+Regionname   Washington
+City         Seattle
+Zip          98101
+Lat          47.6157
+Lon          -122.336
+Timezone     America/Los_Angeles
+Isp          Amazon.com, Inc.
+Org          AWS CloudFront (GLOBAL)
+As           AS16509 Amazon.com, Inc.
+Query        2600:9000:20f0:b600:15:c9dc:593:6781
+
+DNS Enumeration:
+Attribute     Value
+Ip address    124.41.245.144
+Subdomains    144.245.41.124.dynamic.wlink.com.np
+Domain name   144.245.41.124.dynamic.wlink.com.np
+Mail servers  Mail server enumeration failed
+
+SSL/TLS Information for www.amazon.co.uk:443:
+Attribute        Value
+Issuer           ((('countryName', 'US'),), (('organizationName', 'DigiCert Inc'),), (('commonName', 'DigiCert Global CA G2'),))
+Subject          ((('commonName', 'www.amazon.co.uk'),),)
+Expiration Date  2024-08-21 23:59:59
+Remaining Days   177
+
+==================== Results 2024-02-26 19:51:10 ====================
+
+Open ports: 80
+
+Services:
+  Port  Service Info
+    80  Unable to retrieve service information
+
+Banner for www.amazon.co.uk:80:
+Unable to grab the banner
+
+WHOIS information for www.amazon.co.uk:
+('server-108-158-244-48.del51.r.cloudfront.net', [], ['108.158.244.48'])
+
+IP address for www.amazon.co.uk:
+108.158.244.48
+
+Service Availability:
+Service    Availability
+http       Available
+ftp        Available
+ssh        Available
+
+Target IP Reachability: Reachable
+
+IP Location Information:
+Attribute    Value
+Status       success
+Country      Canada
+Countrycode  CA
+Region       QC
+Regionname   Quebec
+City         Montreal
+Zip          H4X
+Lat          45.5019
+Lon          -73.5674
+Timezone     America/Toronto
+Isp          Fastly, Inc
+Org          Amazon Corporate LLC
+As           AS54113 Fastly, Inc.
+Query        2606:2cc0:1::595
+
+DNS Enumeration:
+Attribute     Value
+Ip address    108.158.244.48
+Subdomains    server-108-158-244-48.del51.r.cloudfront.net
+Domain name   server-108-158-244-48.del51.r.cloudfront.net
+Mail servers  [<SocketKind.SOCK_STREAM: 1>]
+
+SSL/TLS Information for www.amazon.co.uk:443:
+Attribute        Value
+Issuer           ((('countryName', 'US'),), (('organizationName', 'DigiCert Inc'),), (('commonName', 'DigiCert Global CA G2'),))
+Subject          ((('commonName', 'www.amazon.co.uk'),),)
+Expiration Date  2024-06-25 23:59:59
+Remaining Days   120
+
+==================== Results 2024-02-27 18:33:31 ====================
+
+Open ports: 80
+
+Services:
+  Port  Service Info
+    80  Unable to retrieve service information
+
+Banner for www.amazon.co.uk:80:
+Unable to grab the banner
+
+WHOIS information for www.amazon.co.uk:
+('144.245.41.124.dynamic.wlink.com.np', [], ['124.41.245.144'])
+
+IP address for www.amazon.co.uk:
+124.41.245.144
+
+Service Availability:
+Service    Availability
+http       Available
+ftp        Available
+ssh        Available
+
+Target IP Reachability: Reachable
+
+IP Location Information:
+Attribute    Value
+Status       success
+Country      United States
+Countrycode  US
+Region       CA
+Regionname   California
+City         San Francisco
+Zip          94107
+Lat          37.721
+Lon          -122.391
+Timezone     America/Los_Angeles
+Isp          Fastly, Inc
+Org          Amazon Corporate LLC
+As           AS54113 Fastly, Inc.
+Query        2606:2cc0:2::595
+
+DNS Enumeration:
+Attribute     Value
+Ip address    124.41.245.144
+Subdomains    144.245.41.124.dynamic.wlink.com.np
+Domain name   144.245.41.124.dynamic.wlink.com.np
+Mail servers  Mail server enumeration failed
+
+SSL/TLS Information for www.amazon.co.uk:443:
+Attribute        Value
+Issuer           ((('countryName', 'US'),), (('organizationName', 'DigiCert Inc'),), (('commonName', 'DigiCert Global CA G2'),))
+Subject          ((('commonName', 'www.amazon.co.uk'),),)
+Expiration Date  2024-08-21 23:59:59
+Remaining Days   176
+
+==================== Results 2024-02-27 18:33:37 ====================
+
+Open ports: 80
+
+Services:
+  Port  Service Info
+    80  Unable to retrieve service information
+
+Banner for www.amazon.co.uk:80:
+Unable to grab the banner
+
+WHOIS information for www.amazon.co.uk:
+('144.245.41.124.dynamic.wlink.com.np', [], ['124.41.245.144'])
+
+IP address for www.amazon.co.uk:
+124.41.245.144
+
+Service Availability:
+Service    Availability
+http       Available
+ftp        Available
+ssh        Available
+
+Target IP Reachability: Reachable
+
+IP Location Information:
+Attribute    Value
+Status       success
+Country      United States
+Countrycode  US
+Region       WA
+Regionname   Washington
+City         Seattle
+Zip          98101
+Lat          47.6157
+Lon          -122.336
+Timezone     America/Los_Angeles
+Isp          Amazon.com, Inc.
+Org          AWS CloudFront (GLOBAL)
+As           AS16509 Amazon.com, Inc.
+Query        2600:9000:2269:6a00:15:c9dc:593:6781
+
+DNS Enumeration:
+Attribute     Value
+Ip address    124.41.245.144
+Subdomains    144.245.41.124.dynamic.wlink.com.np
+Domain name   144.245.41.124.dynamic.wlink.com.np
+Mail servers  Mail server enumeration failed
+
+SSL/TLS Information for www.amazon.co.uk:443:
+Attribute        Value
+Issuer           ((('countryName', 'US'),), (('organizationName', 'DigiCert Inc'),), (('commonName', 'DigiCert Global CA G2'),))
+Subject          ((('commonName', 'www.amazon.co.uk'),),)
+Expiration Date  2024-08-21 23:59:59
+Remaining Days   176
+
+==================== Results 2024-02-27 18:33:41 ====================
+
+Open ports: 80
+
+Services:
+  Port  Service Info
+    80  Unable to retrieve service information
+
+Banner for www.amazon.co.uk:80:
+Unable to grab the banner
+
+WHOIS information for www.amazon.co.uk:
+('144.245.41.124.dynamic.wlink.com.np', [], ['124.41.245.144'])
+
+IP address for www.amazon.co.uk:
+124.41.245.144
+
+Service Availability:
+Service    Availability
+http       Available
+ftp        Available
+ssh        Available
+
+Target IP Reachability: Reachable
+
+IP Location Information:
+Attribute    Value
+Status       success
+Country      United States
+Countrycode  US
+Region       WA
+Regionname   Washington
+City         Seattle
+Zip          98101
+Lat          47.6157
+Lon          -122.336
+Timezone     America/Los_Angeles
+Isp          Amazon.com, Inc.
+Org          AWS CloudFront (GLOBAL)
+As           AS16509 Amazon.com, Inc.
+Query        2600:9000:2269:ce00:15:c9dc:593:6781
+
+DNS Enumeration:
+Attribute     Value
+Ip address    124.41.245.144
+Subdomains    144.245.41.124.dynamic.wlink.com.np
+Domain name   144.245.41.124.dynamic.wlink.com.np
+Mail servers  Mail server enumeration failed
+
+SSL/TLS Information for www.amazon.co.uk:443:
+Attribute        Value
+Issuer           ((('countryName', 'US'),), (('organizationName', 'DigiCert Inc'),), (('commonName', 'DigiCert Global CA G2'),))
+Subject          ((('commonName', 'www.amazon.co.uk'),),)
+Expiration Date  2024-08-21 23:59:59
+Remaining Days   176
+
+==================== Results 2024-02-27 18:37:38 ====================
+
+Open ports: 80
+
+Services:
+  Port  Service Info
+    80  Unable to retrieve service information
+
+Banner for www.amazon.co.uk:80:
+Unable to grab the banner
+
+WHOIS information for www.amazon.co.uk:
+('144.245.41.124.dynamic.wlink.com.np', [], ['124.41.245.144'])
+
+IP address for www.amazon.co.uk:
+124.41.245.144
+
+Service Availability:
+Service    Availability
+http       Available
+ftp        Available
+ssh        Available
+
+Target IP Reachability: Reachable
+
+IP Location Information:
+Attribute    Value
+Status       success
+Country      United States
+Countrycode  US
+Region       VA
+Regionname   Virginia
+City         Ashburn
+Zip          20149
+Lat          39.0469
+Lon          -77.4903
+Timezone     America/New_York
+Isp          Akamai International B.V.
+Org          Akamai Technologies, Inc.
+As           AS20940 Akamai International B.V.
+Query        2600:1408:ec00:28d::3bd2
+
+DNS Enumeration:
+Attribute     Value
+Ip address    124.41.245.144
+Subdomains    144.245.41.124.dynamic.wlink.com.np
+Domain name   144.245.41.124.dynamic.wlink.com.np
+Mail servers  Mail server enumeration failed
+
+SSL/TLS Information for www.amazon.co.uk:443:
+Attribute        Value
+Issuer           ((('countryName', 'US'),), (('organizationName', 'DigiCert Inc'),), (('commonName', 'DigiCert Global CA G2'),))
+Subject          ((('commonName', 'www.amazon.co.uk'),),)
+Expiration Date  2024-08-21 23:59:59
+Remaining Days   176
+
+==================== Results 2024-02-27 19:20:41 ====================
+
+Open ports: 
+
+Services:
+Port    Service Info
+
+Banner for www.amazon.co.uk:80:
+Unable to grab the banner
+
+WHOIS information for www.amazon.co.uk:
+('144.245.41.124.dynamic.wlink.com.np', [], ['124.41.245.144'])
+
+IP address for www.amazon.co.uk:
+124.41.245.144
+
+Service Availability:
+Service    Availability
+http       Available
+ftp        Available
+ssh        Available
+
+Target IP Reachability: Reachable
+
+IP Location Information:
+Attribute    Value
+Status       success
+Country      United States
+Countrycode  US
+Region       WA
+Regionname   Washington
+City         Seattle
+Zip          98101
+Lat          47.6157
+Lon          -122.336
+Timezone     America/Los_Angeles
+Isp          Amazon.com, Inc.
+Org          AWS CloudFront (GLOBAL)
+As           AS16509 Amazon.com, Inc.
+Query        2600:9000:2269:9c00:15:c9dc:593:6781
+
+DNS Enumeration:
+Attribute     Value
+Ip address    124.41.245.144
+Subdomains    144.245.41.124.dynamic.wlink.com.np
+Domain name   144.245.41.124.dynamic.wlink.com.np
+Mail servers  Mail server enumeration failed
+
+SSL/TLS Information for www.amazon.co.uk:443:
+Attribute        Value
+Issuer           ((('countryName', 'US'),), (('organizationName', 'DigiCert Inc'),), (('commonName', 'DigiCert Global CA G2'),))
+Subject          ((('commonName', 'www.amazon.co.uk'),),)
+Expiration Date  2024-08-21 23:59:59
+Remaining Days   176
+
+==================== Results 2024-02-27 19:52:56 ====================
+
+Open ports: 80
+
+Services:
+  Port  Service Info
+    80  Unable to retrieve service information
+
+Banner for www.amazon.co.uk:80:
+Unable to grab the banner
+
+WHOIS information for www.amazon.co.uk:
+('server-108-158-244-48.del51.r.cloudfront.net', [], ['108.158.244.48'])
+
+IP address for www.amazon.co.uk:
+108.158.244.48
+
+Service Availability:
+Service    Availability
+http       Available
+ftp        Available
+ssh        Available
+
+Target IP Reachability: Reachable
+
+IP Location Information:
+Attribute    Value
+Status       success
+Country      United States
+Countrycode  US
+Region       CA
+Regionname   California
+City         San Francisco
+Zip          94107
+Lat          37.721
+Lon          -122.391
+Timezone     America/Los_Angeles
+Isp          Fastly, Inc
+Org          Amazon Corporate LLC
+As           AS54113 Fastly, Inc.
+Query        2606:2cc0::595
+
+DNS Enumeration:
+Attribute     Value
+Ip address    108.158.244.48
+Subdomains    server-108-158-244-48.del51.r.cloudfront.net
+Domain name   server-108-158-244-48.del51.r.cloudfront.net
+Mail servers  [<SocketKind.SOCK_STREAM: 1>]
+
+SSL/TLS Information for www.amazon.co.uk:443:
+Attribute        Value
+Issuer           ((('countryName', 'US'),), (('organizationName', 'DigiCert Inc'),), (('commonName', 'DigiCert Global CA G2'),))
+Subject          ((('commonName', 'www.amazon.co.uk'),),)
+Expiration Date  2024-06-25 23:59:59
+Remaining Days   119
+
+==================== Results 2024-02-29 01:46:31 ====================
+
+Open ports: 80
+
+Services:
+  Port  Service Info
+    80  Unable to retrieve service information
+
+Banner for www.amazon.co.uk:80:
+Unable to grab the banner
+
+WHOIS information for www.amazon.co.uk:
+('server-108-158-244-48.del51.r.cloudfront.net', [], ['108.158.244.48'])
+
+IP address for www.amazon.co.uk:
+124.41.245.144
+
+Service Availability:
+Service    Availability
+http       Available
+ftp        Available
+ssh        Available
+
+Target IP Reachability: Reachable
+
+IP Location Information:
+Attribute    Value
+Status       success
+Country      United States
+Countrycode  US
+Region       WA
+Regionname   Washington
+City         Seattle
+Zip          98101
+Lat          47.6157
+Lon          -122.336
+Timezone     America/Los_Angeles
+Isp          Amazon.com, Inc.
+Org          AWS CloudFront (GLOBAL)
+As           AS16509 Amazon.com, Inc.
+Query        2600:9000:2269:e200:15:c9dc:593:6781
+
+DNS Enumeration:
+Attribute     Value
+Ip address    124.41.245.144
+Subdomains    144.245.41.124.dynamic.wlink.com.np
+Domain name   144.245.41.124.dynamic.wlink.com.np
+Mail servers  Mail server enumeration failed
+
+SSL/TLS Information for www.amazon.co.uk:443:
+Attribute        Value
+Issuer           ((('countryName', 'US'),), (('organizationName', 'DigiCert Inc'),), (('commonName', 'DigiCert Global CA G2'),))
+Subject          ((('commonName', 'www.amazon.co.uk'),),)
+Expiration Date  2024-06-25 23:59:59
+Remaining Days   117
+
+==================== Results 2024-02-29 01:47:58 ====================
+
+Open ports: 22, 80
+
+Services:
+  Port  Service Info
+    22  SSH-2.0-OpenSSH_8.0
+    80  Unable to retrieve service information
+
+Banner for www.purnika.com.np:80:
+Unable to grab the banner
+
+WHOIS information for www.purnika.com.np:
+WHOIS lookup failed
+
+IP address for www.purnika.com.np:
+209.58.182.5
+
+Service Availability:
+Service    Availability
+http       Available
+ftp        Available
+ssh        Available
+
+Target IP Reachability: Reachable
+
+IP Location Information:
+Attribute    Value
+Status       success
+Country      Singapore
+Countrycode  SG
+Region       02
+Regionname   North East
+City         Singapore
+Zip          554502
+Lat          1.37603
+Lon          103.871
+Timezone     Asia/Singapore
+Isp          Leaseweb Asia Pacific pte. ltd.
+Org          Leaseweb Asia Pacific pte. ltd
+As           AS59253 Leaseweb Asia Pacific pte. ltd.
+Query        209.58.182.5
+
+DNS Enumeration:
+Attribute     Value
+Ip address    209.58.182.5
+Subdomains    Subdomain enumeration failed
+Domain name   Reverse DNS lookup failed
+Mail servers  Mail server enumeration failed
+
+SSL/TLS Information for www.purnika.com.np:443:
+Attribute        Value
+Issuer           ((('countryName', 'US'),), (('organizationName', "Let's Encrypt"),), (('commonName', 'R3'),))
+Subject          ((('commonName', 'www.purnika.com.np'),),)
+Expiration Date  2024-04-26 17:56:18
+Remaining Days   57
